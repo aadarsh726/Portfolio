@@ -63,6 +63,21 @@ const projects = [
         tech: ['Excel', 'Data Analysis'],
         github: '#',
         demo: 'https://drive.google.com/file/d/1NIVP5LlVyV96upFE3iV2Ssu0JZdt5Ccf/view?usp=sharing'
+    },
+    {
+        id: 5,
+        title: 'Anti-Gravity Portfolio',
+        category: 'Full Stack',
+        image: 'https://placehold.co/600x400',
+        description: 'A modern, immersive portfolio website featuring anti-gravity physics animations, glassmorphism UI, and seamless page transitions.',
+        problem: 'Traditional portfolios often feel static and unengaging, failing to showcase technical creativity.',
+        approach: 'Leveraged React and Framer Motion to create a dynamic, interactive user experience with physics-based animations.',
+        challenges: 'Optimizing complex animations for performance and ensuring responsiveness across all devices.',
+        results: 'Delivered a unique, high-performance portfolio that effectively demonstrates frontend expertise.',
+        learning: 'Advanced Framer Motion techniques, React performance optimization, and modern CSS architecture.',
+        tech: ['React', 'Vite', 'Framer Motion', 'Bootstrap', 'SCSS'],
+        github: 'https://github.com/aadarsh726/Portfolio.git',
+        demo: '#'
     }
 ];
 
