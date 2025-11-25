@@ -66,7 +66,7 @@ const projects = [
     },
     {
         id: 5,
-        title: 'Anti-Gravity Portfolio',
+        title: 'Portfolio',
         category: 'Full Stack',
         image: 'https://placehold.co/600x400',
         description: 'A modern, immersive portfolio website featuring anti-gravity physics animations, glassmorphism UI, and seamless page transitions.',
